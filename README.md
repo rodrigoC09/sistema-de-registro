@@ -4,3 +4,4 @@
 Para ejecutarel sistema debes coloca:
 
 ```npr install react```
+sistema de registro 2
